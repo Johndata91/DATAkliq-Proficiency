@@ -1,0 +1,183 @@
+S/N,CustomerID,Customers_Name,Registration_Date,State
+1,DCP/pop/5478,Agrocentre Holdings Limited,3/17/2019,OGUN
+2,DCP/pop/5479,AgroGroup Consulting Ltd,5/18/2019,AKWA IBOM
+3,DCP/pop/5480,Astro Agricultural Services,5/19/2019,ZAMFARA
+4,DCP/pop/5481,Nature Pride,3/20/2019,EDO
+5,DCP/pop/5482,Rushing Creek Farms,7/21/2019,KANO
+6,DCP/pop/5483,East Valley Farms,10/22/2019,KADUNA
+7,DCP/pop/5484,Blueberry Hills,7/23/2019,FCT
+8,DCP/pop/5485,Mayflower Farms,7/24/2019,ABIA
+9,DCP/pop/5486,Land Grower Inc,7/25/2019,LAGOS
+10,DCP/pop/5487,Market Fresh Inc,7/26/2019,IMO
+11,DCP/pop/5488,Farmer Pride,7/27/2019,ONDO
+12,DCP/pop/5489,Agriculture Information Services Limited,7/28/2019,OYO
+13,DCP/pop/5490,Harvest Time,7/29/2019,PLATEAU
+14,DCP/pop/5491,Rooting Interest,8/15/2020,ADAMAWA
+15,DCP/pop/5492,Point-Picking Plough,8/16/2020,ANAMBRA
+16,DCP/pop/5493,Turf Prospects,8/19/2020,NIGER
+17,DCP/pop/5494,Grow-N-Know,8/20/2020,KWARA
+18,DCP/pop/5495,Arm-Farming Services,8/21/2020,RIVERS
+19,DCP/pop/5496,Farm & Garden Products Co,8/25/2020,KATSINA
+20,DCP/pop/5497,Yard Farmers Market,8/25/2020,OSUN
+21,DCP/pop/5498,Earthbound Brownies Company,8/28/2020,ENUGU
+22,DCP/pop/5499,Nutritional Seed Supplies,8/29/2020,EBONYI
+23,DCP/pop/5500,Organic Dandelion Farming,9/5/2020,NASARAWA
+24,DCP/pop/5501,The Agro-Ventures,9/8/2020,DELTA
+25,DCP/pop/5502,Blue Hills Farm,9/9/2020,BENUE
+26,DCP/pop/5503,The Green Acre,9/10/2020,EKITI
+27,DCP/pop/5504,North Country Harvests,9/10/2020,OGUN
+28,DCP/pop/5505,Agritech Innovation Partners Incorporated,9/12/2020,AKWA IBOM
+29,DCP/pop/5506,Farmacia,9/13/2020,ZAMFARA
+30,DCP/pop/5507,Harvest Limited,9/19/2020,EDO
+31,DCP/pop/5508,Arable Inc,9/20/2020,KANO
+32,DCP/pop/5509,Agritech,9/25/2020,KADUNA
+33,DCP/pop/5510,Agri-Tools Co,9/26/2020,FCT
+34,DCP/pop/5511,Farmers World,9/28/2020,ABIA
+35,DCP/pop/5512,Food Good,9/30/2020,LAGOS
+36,DCP/pop/5513,Food Truck,9/30/2020,IMO
+37,DCP/pop/5514,The Agriculture Corporation,9/30/2020,ONDO
+38,DCP/pop/5515,Growing Enterprise,10/3/2020,OYO
+39,DCP/pop/5516,Astra-Green Fertilizers,10/3/2020,PLATEAU
+40,DCP/pop/5517,Arbors and Hedgerows,10/5/2020,ADAMAWA
+41,DCP/pop/5518,Barns Unlimited,10/5/2020,ANAMBRA
+42,DCP/pop/5519,Big Gums Tree Farms,10/6/2020,NIGER
+43,DCP/pop/5520,Agricultural Empires,10/7/2020,KWARA
+44,DCP/pop/5521,Agricultural Machinations Ltd (AMC),10/12/2020,RIVERS
+45,DCP/pop/5522,Pocket Agriculture Inc,10/12/2020,KATSINA
+46,DCP/pop/5523,Nature Agri Farms,10/16/2020,OSUN
+47,DCP/pop/5524,Agricultural Solutions,10/20/2020,ENUGU
+48,DCP/pop/5525,Organic Farm Solutions,10/23/2020,EBONYI
+49,DCP/pop/5526,Eco-Agriculture Solutions,10/24/2020,NASARAWA
+50,DCP/pop/5527,All Aspects Agricultural Enterprises Inc,10/27/2020,DELTA
+51,DCP/pop/5528,American Agricultural Enterprise Inc,10/29/2020,BENUE
+52,DCP/pop/5529,Bean Machine Farm Supply,11/1/2020,EKITI
+53,DCP/pop/5530,Ranchlands & Habitat Division,11/6/2020,OGUN
+54,DCP/pop/5531,Outback Farm Supply,11/9/2020,AKWA IBOM
+55,DCP/pop/5532,Outback Homesteads and Ranchland Inc,11/17/2020,ZAMFARA
+56,DCP/pop/5533,Backyard Farm Supply and Labor Exchange,11/17/2020,EDO
+57,DCP/pop/5534,U-N-A Farm Supplies Co Inc,11/21/2020,KANO
+58,DCP/pop/5535,Sunlight Products LLC,11/23/2020,KADUNA
+59,DCP/pop/5536,Agri-Food Marketing,11/30/2020,FCT
+60,DCP/pop/5537,Agri-Marketing,12/4/2020,ABIA
+61,DCP/pop/5538,Blueberry Hills Produce Co,12/9/2020,LAGOS
+62,DCP/pop/5539,Green Sunshine Gardens,12/9/2020,IMO
+63,DCP/pop/5540,Farm Pride Summer Fruits Co Ltd,12/11/2020,ONDO
+64,DCP/pop/5541,Agrobotanica,12/11/2020,OYO
+65,DCP/pop/5542,Industrial Agriculture Company,12/11/2020,PLATEAU
+66,DCP/pop/5543,Agricultural Science Inc,12/14/2020,ADAMAWA
+67,DCP/pop/5544,Agricultural Equipment,12/14/2020,ANAMBRA
+68,DCP/pop/5545,Farm & Agriculture Tools,12/14/2020,NIGER
+69,DCP/pop/5546,YieldPro Inc,12/16/2020,KWARA
+70,DCP/pop/5547,Agritrade,12/18/2020,RIVERS
+71,DCP/pop/5548,The Green Gain,12/21/2020,KATSINA
+72,DCP/pop/5549,FieldSong,12/26/2020,OSUN
+73,DCP/pop/5550,FertilFarms,12/27/2020,ENUGU
+74,DCP/pop/5551,Agri-2-GO,12/28/2020,EBONYI
+75,DCP/pop/5552,Smiths Seeds,1/2/2021,NASARAWA
+76,DCP/pop/5553,Barnyard Paradise,1/5/2021,DELTA
+77,DCP/pop/5554,Plantland Inc,1/7/2021,BENUE
+78,DCP/pop/5555,Capriole Maple Products Company,1/8/2021,EKITI
+79,DCP/pop/5556,First Fruits Farm Produce and Apple Deli,1/8/2021,OGUN
+80,DCP/pop/5557,Agrino Technologies,1/10/2021,AKWA IBOM
+81,DCP/pop/5558,Agri Tree Industries,1/11/2021,ZAMFARA
+82,DCP/pop/5559,Big Agri LLC,1/11/2021,EDO
+83,DCP/pop/5560,AgriGro Foods Inc,1/15/2021,KANO
+84,DCP/pop/5561,Agritech Biotech,1/24/2021,KADUNA
+85,DCP/pop/5562,Crop Farmers Organic Market,1/25/2021,FCT
+86,DCP/pop/5563,Grow Inc,1/25/2021,ABIA
+87,DCP/pop/5564,Harvest Inc,2/1/2021,LAGOS
+88,DCP/pop/5565,Agrogreen,2/5/2021,IMO
+89,DCP/pop/5566,Agrosystems,2/11/2021,ONDO
+90,DCP/pop/5567,AgTech Industries,2/12/2021,OYO
+91,DCP/pop/5568,Agricultural Products Production and Marketing,2/13/2021,PLATEAU
+92,DCP/pop/5569,Agriculture Business Management (ABM),2/17/2021,ADAMAWA
+93,DCP/pop/5570,Whole-Farm Marketing,2/17/2021,ANAMBRA
+94,DCP/pop/5571,Grapevine Products,2/17/2021,NIGER
+95,DCP/pop/5572,Green Fields Harvesting,2/18/2021,KWARA
+96,DCP/pop/5573,Agritopia Farms,2/24/2021,RIVERS
+97,DCP/pop/5574,Eden Farm Pte Ltd,2/27/2021,KATSINA
+98,DCP/pop/5575,Cowsnack Industries Pte Ltd,3/2/2021,OSUN
+99,DCP/pop/5576,FarmHubs Pte Ltd,3/3/2021,ENUGU
+100,DCP/pop/5577,Green Acres Block Exchange,3/9/2021,EBONYI
+101,DCP/pop/5578,B&S Farms & Truck Repair,3/9/2021,NASARAWA
+102,DCP/pop/5579,Trace & Sons Tractors,3/11/2021,DELTA
+103,DCP/pop/5580,Bachman Farms and Feed Lot Inc,3/14/2021,BENUE
+104,DCP/pop/5581,Four Corners Farm Store Inc,3/16/2021,EKITI
+105,DCP/pop/5582,Agribusiness Inc,3/19/2021,OGUN
+106,DCP/pop/5583,Growers Alliance,3/21/2021,AKWA IBOM
+107,DCP/pop/5584,Green Power Corporation,3/23/2021,ZAMFARA
+108,DCP/pop/5585,Say It With Seeds LLC,3/25/2021,EDO
+109,DCP/pop/5586,Grow Green Solutions,3/26/2021,KANO
+110,DCP/pop/5587,Happy Tractor Co,3/29/2021,KADUNA
+111,DCP/pop/5588,Big Bee Farms,3/31/2021,FCT
+112,DCP/pop/5589,Hyperion Ridge Farms,4/1/2021,ABIA
+113,DCP/pop/5590,Natural Harvest Organics,4/6/2021,LAGOS
+114,DCP/pop/5591,Sunset Meats Ltd,4/7/2021,IMO
+115,DCP/pop/5592,Harvest Enterprises,4/10/2021,ONDO
+116,DCP/pop/5593,Honeybee Enterprises,4/15/2021,OYO
+117,DCP/pop/5594,A Little Beekeeping Inc,4/18/2021,PLATEAU
+118,DCP/pop/5595,Fresh Country Gourmet Foods,4/23/2021,ADAMAWA
+119,DCP/pop/5596,Bee Mine Honey Ltd,4/30/2021,ANAMBRA
+120,DCP/pop/5597,Fereshteh Agrotechnology,5/2/2021,NIGER
+121,DCP/pop/5598,Agrosilvopastoralisme,5/8/2021,KWARA
+122,DCP/pop/5599,AmberLand Enterprises,5/9/2021,RIVERS
+123,DCP/pop/5600,Successful Farming,5/10/2021,KATSINA
+124,DCP/pop/5601,Rural Farming,5/12/2021,OSUN
+125,DCP/pop/5602,Organic Gardening,5/15/2021,ENUGU
+126,DCP/pop/5603,Countryside Farmsteads,5/16/2021,EBONYI
+127,DCP/pop/5604,Farm Fresh Foodies,5/22/2021,NASARAWA
+128,DCP/pop/5605,Dandelion Farms,5/28/2021,DELTA
+129,DCP/pop/5606,Agrifoods,5/28/2021,BENUE
+130,DCP/pop/5607,Abundant Harvest,5/31/2021,EKITI
+131,DCP/pop/5608,Breakthrough Technologies,6/4/2021,OGUN
+132,DCP/pop/5609,Green Wave,6/5/2021,AKWA IBOM
+133,DCP/pop/5610,Freshly Grown,6/13/2021,ZAMFARA
+134,DCP/pop/5611,Solar Power Production,6/14/2021,EDO
+135,DCP/pop/5612,Healthy Meadows,6/20/2021,KANO
+136,DCP/pop/5613,Ample Crops,6/23/2021,KADUNA
+137,DCP/pop/5614,Delta Farm Supply Incorporated,6/23/2021,FCT
+138,DCP/pop/5615,Farm Highland Winery Co,6/24/2021,ABIA
+139,DCP/pop/5616,Old Country Acres Inc,6/26/2021,LAGOS
+140,DCP/pop/5617,Barnstorm Farms,6/27/2021,IMO
+141,DCP/pop/5618,Crop Circle Seeds,6/28/2021,ONDO
+142,DCP/pop/5619,Harvest Moon Nurseries,6/30/2021,OYO
+143,DCP/pop/5620,Black Gold Farms,7/1/2021,PLATEAU
+144,DCP/pop/5621,The Valley Farm,7/3/2021,ADAMAWA
+145,DCP/pop/5622,Diversified Crops Enterprises Inc,7/5/2021,ANAMBRA
+146,DCP/pop/5623,Grow And Sell Flourishing Herbs,7/6/2021,NIGER
+147,DCP/pop/5624,Agritech Innovation,7/7/2021,KWARA
+148,DCP/pop/5625,Farm Grind,7/9/2021,RIVERS
+149,DCP/pop/5626,Agrocide Pte Ltd,7/10/2021,KATSINA
+150,DCP/pop/5627,Agropark Briard,7/10/2021,OSUN
+151,DCP/pop/5628,Agropark Company Ltd,7/13/2021,ENUGU
+152,DCP/pop/5629,Agroparks Incorporation,7/16/2021,EBONYI
+153,DCP/pop/5630,Pest Patrol Incorporated,7/18/2021,NASARAWA
+154,DCP/pop/5631,Fertile Fields Enterprises,7/19/2021,DELTA
+155,DCP/pop/5632,Crop Production Services,7/25/2021,BENUE
+156,DCP/pop/5633,Loamy Soil,7/30/2021,EKITI
+157,DCP/pop/5634,Fruitful Crops,8/3/2021,OGUN
+158,DCP/pop/5635,Farm Fresh Produce,8/3/2021,AKWA IBOM
+159,DCP/pop/5636,Blueberry Hills Harvest Incorporated,8/3/2021,ZAMFARA
+160,DCP/pop/5637,Garden Fresh Produce Inc,8/5/2021,EDO
+161,DCP/pop/5638,Budding Business Roses Company,8/6/2021,KANO
+162,DCP/pop/5639,Agri-Machinery Ventures,8/7/2021,KADUNA
+163,DCP/pop/5640,Farm for Food Records,8/9/2021,FCT
+164,DCP/pop/5641,Green Leave Produce Company,8/9/2021,ABIA
+165,DCP/pop/5642,Groovy Green harvest inc,8/10/2021,LAGOS
+166,DCP/pop/5643,Full Harvest Ltd,8/13/2021,IMO
+167,DCP/pop/5644,Mow and Grow,8/13/2021,ONDO
+168,DCP/pop/5645,Roll up Field,8/16/2021,OYO
+169,DCP/pop/5646,Green Cultivation Harvest Company,8/17/2021,PLATEAU
+170,DCP/pop/5647,Fruits of the Loom,8/18/2021,ADAMAWA
+171,DCP/pop/5648,Grains and Hops Coop,8/20/2021,ANAMBRA
+172,DCP/pop/5649,Growing Concern,8/22/2021,NIGER
+173,DCP/pop/5650,The Crop Perfection,8/23/2021,KWARA
+174,DCP/pop/5651,Reaping Riches Ltd,8/25/2021,RIVERS
+175,DCP/pop/5652,Feed Co,8/27/2021,KATSINA
+176,DCP/pop/5653,Round Seeds Fresh Produce,8/28/2021,OSUN
+177,DCP/pop/5654,SoilTech inc,9/7/2021,ENUGU
+178,DCP/pop/5655,Agronomist Co,9/7/2021,EBONYI
+179,DCP/pop/5656,Natures Products,9/9/2021,NASARAWA
+180,DCP/pop/5657,Joes Grown and Harvest,9/11/2021,DELTA
+181,DCP/pop/5658,Greenfields Fresh Produce,9/14/2021,BENUE
+182,DCP/pop/5659,Wheat Bushel harvest,9/25/2021,EKITI

@@ -1,0 +1,129 @@
+ProductID,Product_Name,Product_Category,Stock_Quantity_Left,Unit_Price,Production_Price,Store_Location_Code
+DCCP/Class J /1475,fipronil,Class J,891,25815.75,7744.725,3
+DCCP/Class A/1476,clindamycin,Class A,219,1230,307.5,1
+DCCP/Class A/1477,artific,Class A,777,2800,700,2
+DCCP/Class WT/1478,flumazenil,Class WT,679,1899.75,474.9375,3
+DCCP/Class A/1479,flunixin,Class A,184,40426.4,12127.92,6
+DCCP/Class A/1480,furosemide,Class A,631,1449.75,362.4375,4
+DCCP/Class J /1481,alprazolam,Class J,376,28850.25,8655.075,2
+DCCP/Class J /1482,cyproheptadine,Class J,902,22320,5580,6
+DCCP/Class J /1483,amlodipine,Class J,904,759.35,189.8375,5
+DCCP/Class A/1484,gabapentin,Class A,775,2409.23,602.3075,4
+DCCP/Class A/1485,gentamicin,Class A,111,2080,520,4
+DCCP/Class M/1486,clenbuterol,Class M,981,1120,280,6
+DCCP/Class A/1487,glycopyrrolate,Class A,160,75000,22500,2
+DCCP/Class J /1488,hydromorphone,Class J,658,50000,15000,3
+DCCP/Class J /1489,hydroxyzine,Class J,720,1300,325,3
+DCCP/Class M/1490,clavaseptin,Class M,819,34143.75,10243.125,4
+DCCP/Class H/1491,imidacloprid/moxidectin,Class H,191,1995,498.75,2
+DCCP/Class WT/1492,isoxsuprine,Class WT,621,3924.9976,981.2494,5
+DCCP/Class J /1493,amitraz,Class J,544,2550,637.5,3
+DCCP/Class J /1494,doxycycline,Class J,740,53412.8,16023.84,2
+DCCP/Class V/1495,chloramphenicol,Class V,731,31000,9300,2
+DCCP/Class V/1496,aminophylline,Class V,404,3500,875,4
+DCCP/Class V/1497,bupivacaine,Class V,963,4000,1000,6
+DCCP/Class V/1498,clomipramine,Class V,172,3500,875,2
+DCCP/Class V/1499,carprofen,Class V,627,3000,750,1
+DCCP/Class V/1500,ciprofloxacin,Class V,654,12384.77,3096.1925,5
+DCCP/Class V/1501,amantadine,Class V,312,12398.21,3099.5525,2
+DCCP/Class V/1502,amoxicillin,Class V,617,12500,3125,5
+DCCP/Class V/1503,ivermectin,Class V,161,47108.25,14132.475,3
+DCCP/Class V/1504,cefovecin,Class V,527,2880,720,1
+DCCP/Class V/1505,ketamine,Class V,756,1382.4,345.6,3
+DCCP/Class V/1506,amitriptyline,Class V,741,5400,1350,4
+DCCP/Class V/1507,ceftiofur,Class V,212,6000,1500,2
+DCCP/Class V/1508,ketoprofen,Class V,205,30766.02,9229.806,5
+DCCP/Class M/1509,atenolol,Class M,367,4200,1050,6
+DCCP/Class H/1510,cephalexin,Class H,383,85416,25624.8,6
+DCCP/Class H/1511,acepromazine,Class H,189,2590.5,647.625,5
+DCCP/Class H/1512,buprenorphine,Class H,716,4569.53,1142.3825,3
+DCCP/Class H/1513,equine,Class H,347,1690.5,422.625,5
+DCCP/Class H/1514,levamisole,Class H,930,1160,290,1
+DCCP/Class J /1515,butorphanol,Class J,619,877.5,219.375,2
+DCCP/Class WT/1516,levetiracetam,Class WT,667,5520,1380,6
+DCCP/Class H/1517,enalapril,Class H,145,22500,5625,3
+DCCP/Class M/1518,altrenogest,Class M,649,3093.335833,773.3339583,3
+DCCP/Class M/1519,cimetidine,Class M,944,48533.33583,14560.00075,3
+DCCP/Class V/1520,chloral,Class V,801,120,30,5
+DCCP/Class V/1521,levothyroxine,Class V,589,58790,17637,4
+DCCP/Class J /1522,lufenuron,Class J,385,1456.8,364.2,1
+DCCP/Class M/1523,marbofloxacin,Class M,752,1350,337.5,6
+DCCP/Class V/1524,maropitant,Class V,899,14100,3525,1
+DCCP/Class J /1525,benazepril,Class J,388,5200,1300,6
+DCCP/Class WT/1526,clavamox,Class WT,216,31500,9450,4
+DCCP/Class V/1527,apomorphine,Class V,873,4500,1125,5
+DCCP/Class M/1528,diphenhydramine,Class M,313,56400,16920,3
+DCCP/Class M/1529,dexamethasone,Class M,690,20520,5130,5
+DCCP/Class M/1530,mavacoxib,Class M,499,7250,1812.5,2
+DCCP/Class M/1531,diazepam,Class M,195,3500,875,2
+DCCP/Class M/1532,fenbendazole,Class M,117,21990,5497.5,4
+DCCP/Class M/1533,atipamezole,Class M,200,10683.11,2670.7775,4
+DCCP/Class M/1534,enrofloxacin,Class M,745,50499.75,15149.925,2
+DCCP/Class J /1535,deracoxib,Class J,766,8500,2125,1
+DCCP/Class A/1536,medetomidine,Class A,274,2600,650,5
+DCCP/Class J /1537,albendazole,Class J,449,520,130,3
+DCCP/Class J /1538,clavulanic,Class J,902,13000,3250,4
+DCCP/Class M/1539,bethanechol,Class M,530,2200,550,2
+DCCP/Class V/1540,meloxicam,Class V,628,6000,1500,6
+DCCP/Class V/1541,metacam,Class V,779,8000,2000,5
+DCCP/Class V/1542,cefpodoxime,Class V,474,56000,16800,4
+DCCP/Class V/1543,methimazole,Class V,109,50650,15195,6
+DCCP/Class V/1544,dichlorophene,Class V,440,16076.91,4019.2275,5
+DCCP/Class V/1545,methocarbamol,Class V,716,1300,325,3
+DCCP/Class V/1546,clamoxyquine,Class V,265,1977.03,494.2575,2
+DCCP/Class H/1547,Viatris,Class H,963,25585,7675.5,3
+DCCP/Class J /1548,Nexium,Class J,636,47832,14349.6,1
+DCCP/Class J /1549,Plavix,Class J,996,53086,15925.8,4
+DCCP/Class H/1550,Singulair,Class H,160,43538,13061.4,5
+DCCP/Class M/1551,Lexapro,Class M,739,25975,7792.5,4
+DCCP/Class M/1552,Crestor,Class M,628,4216,1054,3
+DCCP/Class WT/1553,Synthroid,Class WT,144,10290,2572.5,4
+DCCP/Class J /1554,ProAirHFA,Class J,518,43040,12912,5
+DCCP/Class V/1555,AdvairDiskus,Class V,972,32233,9669.9,5
+DCCP/Class V/1556,Cymbalta,Class V,592,37639,11291.7,6
+DCCP/Class V/1557,Diovan,Class V,312,61623,18486.9,2
+DCCP/Class V/1558,VentolinHFA,Class V,716,53046,15913.8,2
+DCCP/Class M/1559,DiovanHCT,Class M,450,5142,1285.5,1
+DCCP/Class J /1560,Actos,Class J,334,6693,1673.25,2
+DCCP/Class V/1561,Seroquel,Class V,101,57192,17157.6,1
+DCCP/Class V/1562,Levaquin,Class V,731,39631,11889.3,6
+DCCP/Class M/1563,Lantus,Class M,118,59551,17865.3,5
+DCCP/Class V/1564,Nasonex,Class V,116,68534,20560.2,3
+DCCP/Class V/1565,Viagra,Class V,951,51258,15377.4,4
+DCCP/Class M/1566,Lyrica,Class M,447,68656,20596.8,3
+DCCP/Class V/1567,Celebrex,Class V,876,66758,20027.4,3
+DCCP/Class M/1568,Concerta,Class M,198,6528,1632,6
+DCCP/Class V/1569,Spiriva,Class V,399,12889,3222.25,6
+DCCP/Class V/1570,Premarintabs,Class V,104,52775,15832.5,5
+DCCP/Class V/1571,EffexorXR,Class V,344,2481,620.25,1
+DCCP/Class V/1572,Tricor,Class V,680,10099,2524.75,6
+DCCP/Class V/1573,Zetia,Class V,596,34785,10435.5,1
+DCCP/Class V/1574,Vytorin,Class V,471,44381,13314.3,2
+DCCP/Class V/1575,OxyContin,Class V,679,65871,19761.3,6
+DCCP/Class V/1576,Abilify,Class V,142,11264,2816,3
+DCCP/Class V/1577,Loestrin24Fe,Class V,923,56689,17006.7,4
+DCCP/Class V/1578,Vyvanse,Class V,151,61880,18564,4
+DCCP/Class J /1579,Cialis,Class J,745,25890,7767,5
+DCCP/Class V/1580,Suboxone,Class V,871,29086,8725.8,2
+DCCP/Class J /1581,Aricept,Class J,998,10615,2653.75,4
+DCCP/Class J /1582,Benicar,Class J,463,3929,982.25,5
+DCCP/Class V/1583,Januvia,Class V,797,74821,22446.3,5
+DCCP/Class V/1584,Lunesta,Class V,265,39726,11917.8,5
+DCCP/Class V/1585,AmbienCR,Class V,934,39909,11972.7,6
+DCCP/Class V/1586,Niaspan,Class V,960,24767,6191.75,3
+DCCP/Class V/1587,Xalatan,Class V,907,30046,9013.8,1
+DCCP/Class M/1588,Levoxyl,Class M,226,67952,20385.6,3
+DCCP/Class WT/1589,BenicarHCT,Class WT,203,15484,3871,4
+DCCP/Class V/1590,FloventHFA,Class V,900,5901,1475.25,2
+DCCP/Class M/1591,NuvaRing,Class M,925,72558,21767.4,5
+DCCP/Class M/1592,Lovaza,Class M,947,28763,8628.9,5
+DCCP/Class M/1593,Yaz,Class M,644,50731,15219.3,1
+DCCP/Class M/1594,NovoLog,Class M,375,10819,2704.75,2
+DCCP/Class M/1595,Combivent,Class M,906,9640,2410,1
+DCCP/Class M/1596,Namenda,Class M,119,35202,10560.6,5
+DCCP/Class M/1597,DetrolLA,Class M,891,18613,4653.25,2
+DCCP/Class J /1598,OrthoTri-CyclenLo,Class J,383,43449,13034.7,3
+DCCP/Class A/1599,LantusSoloSTAR,Class A,801,43541,13062.3,3
+DCCP/Class V/1600,ProventilHFA,Class V,788,8801,2200.25,1
+DCCP/Class V/1601,Aciphex,Class V,811,54953,16485.9,5
+DCCP/Class V/1602,Avapro,Class V,341,47240,14172,4
